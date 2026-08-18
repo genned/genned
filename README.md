@@ -1,4 +1,4 @@
-##Howdy!
+# Howdy!
 
 I'm studying Computer Science at The University of Texas at Dallas.
 
